@@ -7,3 +7,5 @@ commit head change
 commit branch#1
 
 branch #2 test edit
+
+branch#2 after merge
