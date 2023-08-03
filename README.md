@@ -12,4 +12,6 @@ commit branch#1
  branch #1 edit for head
 
  head test 
+
+ branch #3 test
  branch#1 after branch
